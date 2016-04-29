@@ -1,2 +1,4 @@
 # File-Organiser
-Sorts files in a directory by grouping them in folders
+Sorts files in a directory according to type and groups them in appropriate folders
+
+
